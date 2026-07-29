@@ -1,0 +1,13 @@
+  Value of the file content: File content from auto.tfvars. Boolean value: true
+
+  Random pet: my-pet-easy-swift
+
+  Random password: none
+
+  Second fruit: banana
+
+  Person name: Luiz
+  Person age: 31
+
+  Person name: Luiz
+  Person age: 31
